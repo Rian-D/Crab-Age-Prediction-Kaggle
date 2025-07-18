@@ -1,10 +1,8 @@
 # Crab Age Prediction
-My machine learning solution for the Kaggle Crab Age Prediction competition, earning me an MAE of 1.404 (**top 10%** of all submissions). The source code as well as a more detailed analysis of my thought process when writing the code can be found in **main.ipynb**.
+My machine learning solution for the Kaggle Crab Age Prediction competition, earning me a Kaggle score of 1.404 (**top 10%** of all submissions) based on the Mean Absolute Error (MAE) of my model's predictions. The source code as well as a more detailed analysis of my thought process when writing the code can be found in **main.ipynb**.
 
 ## Competition Overview
 This project tackles the [Regression with a Crab Age Dataset Kaggle Competition](https://www.kaggle.com/competitions/playground-series-s3e16/overview). The goal is to predict the age of crabs based on physical measurements including dimensions and weight components.
-
-**Evaluation Metric:** Mean Absolute Error (MAE)
 
 
 ## Dataset Summary
